@@ -21,3 +21,15 @@ My surname is o'regan The first letter o is number 111 The last letter n is numb
 
 Similarly in all uppercase
 My surname is O'REGAN The first letter O is number 79 The last letter N is number 78 Fibonacci number 157 is 289450641941273985495088042104137
+
+# Excercise 3
+## Collatz Conjecture
+
+This program needs to be run in python. python collatz.py
+
+The obect of this exercise is to write a program to show the steps in the collatz conjecture for any input number.
+Collatz Conjecture starts with any positive integer n. if n is even, the next term is n divided by 2. Otherwise, the next term is 3 times n plus 1. The conjecture is that no matter what value of n, the sequence will always reach 1.
+
+
+
+
