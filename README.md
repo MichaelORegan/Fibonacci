@@ -1,11 +1,11 @@
-## Fibonacci
-# Fibonacci Number
+# Fibonacci
+## Fibonacci Number
 
 
 My name is Michael, so the first and last letter of my name (M + L = 13 +12 = 25), the 25th number of the fibonacci sequence is 75,025
 
 
-# Fibonacci Name
+## Fibonacci Name
 
 My surname is O'Regan The first letter O is number 79 The last letter n is number 110 Fibonacci number 189 is 1409869790947669143312035591975596518914
 Ord() gives a character a counting numerical value, as per ascii O is 79 and n is 110
