@@ -4,7 +4,7 @@
 
   """This function returns the nth Fibonacci number."""
  # https://en.wikipedia.org/wiki/Fibonacci_number#Recognizing_Fibonacci_numbers
- # fibonacci sequence is a sequence of numbers in Mathematics, 
+ # fibonacci sequence is a sequence of numbers in Mathematics, it is a mathematical spiral
  # starting with 0 then 1 and each subsequent number is found by adding the 2 previous numbers
 
 def fib(n):            # Defining the function
