@@ -11,3 +11,7 @@ if x <= 0:                                    # In case the entered number is 0 
     if x % 2 == 0:                            # if x is divisable by 2
         x = x / 2                             # then divide x by 2
         print(int(x))                         # print the new integer x
+    elif x % 2 == 1:                          # else if x is not divisable by 2
+        x = (x * 3) + 1                       # multiply x by 3 and add 1               
+        print(int(x))                         # print the new integer x
+                                              # program will stop if 1 is reached
