@@ -28,7 +28,11 @@ My surname is O'REGAN The first letter O is number 79 The last letter N is numbe
 This program needs to be run in python. python collatz.py
 
 The obect of this exercise is to write a program to show the steps in the collatz conjecture for any input number.
-Collatz Conjecture starts with any positive integer n. if n is even, the next term is n divided by 2. Otherwise, the next term is 3 times n plus 1. The conjecture is that no matter what value of n, the sequence will always reach 1.
+
+Collatz Conjecture starts with any positive integer n. 
+If n is an even number, the next term is n divided by 2. 
+If n is an odd number the next term is 3 times n plus 1. 
+The conjecture is that no matter what value of n, the sequence will always reach 1.
 
 
 
