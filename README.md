@@ -1,16 +1,16 @@
-# Exercise 1  
+# Exercise 1 (fib.py)
 ## Fibonacci Number
 
 This algorithim run in python code will return the nth fibonacci number.
  
 
-# Exercise 2 
+# Exercise 2 (fib.py)
 ## Fibonacci Name
 
-This algorithim run in python code will return the nth fibonacci number.  The nth fibonacci number based on the first and last latter of your name and adding their position on the ASCII table to get a numebr.
+This algorithim run in python code will return the nth fibonacci number.  The nth fibonacci number based on the first and last letter of your name and adding their relative position on the ASCII table together to get a numebr.
 
 
-# Excercise 3
+# Excercise 3 (collatz.py)
 ## Collatz Conjecture
 
 This program needs to be run in python. python collatz.py
