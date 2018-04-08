@@ -23,7 +23,7 @@ If n is an odd number the next term is 3 times n plus 1.
 The conjecture is that no matter what value of n, the sequence will always reach 1.
 
 
-# Exercise 4 (euler5.py
+# Exercise 4 (euler5.py)
 ## Project Euler Problem number 5
 
 Problem number 5 : 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
