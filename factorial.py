@@ -1,5 +1,5 @@
 # Michael O'Regan 02.04.2018
-# Ammended from the Sumall function
+# Ammended from the Sumall function by Ian McLoughlin
 
 def factorial(number):                          # defining the function as factorial(number) number being the input number we want to get the factorial of
     multiplynumber = 1                          # starting the number we want to loop through at 1
