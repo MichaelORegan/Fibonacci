@@ -30,11 +30,11 @@ Problem number 5 : 2520 is the smallest number that can be divided by each of th
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
 
-# Exercise 5 
+# Exercise 5 (Irisdataset.py)
 ## Write a Python script that reads the Iris data set in and prints the four numerical values on each row in a nice format. That is, on the screen should be printed the petal length, petal width, sepal length and sepal width, and these values should have the decimal places aligned, with a space between the columns.
 
 
-# Exercise 6
+# Exercise 6 
 ## Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. You should, in your script, test the function by calling it with the values 5, 7, and 10.
 
 After watching the video of sumall I ammended the function to multiply instead of adding.
