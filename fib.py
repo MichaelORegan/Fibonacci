@@ -32,7 +32,7 @@ print("Fibonacci number", x, "is", ans)
 # Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
 
- """This function returns the nth Fibonacci number."""
+"""This function returns the nth Fibonacci number."""
 
 def fib(n):               # Defining the function
   i = 0                   # Let i = 0
