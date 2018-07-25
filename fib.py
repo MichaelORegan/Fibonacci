@@ -1,5 +1,5 @@
 # Ian McLoughlin
-# A program that displays Fibonacci numbers.
+# A program that displays n Fibonacci numbers.
 
 """This function returns the nth Fibonacci number."""
 
